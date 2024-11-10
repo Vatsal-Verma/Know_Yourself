@@ -1,0 +1,13 @@
+
+
+{
+  "manifest_version": 3,
+  "name": "know yourself",
+  "version": "1.0",
+  "description": "Get your profile urls",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon" : "something.png"
+  }
+}

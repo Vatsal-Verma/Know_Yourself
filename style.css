@@ -1,0 +1,14 @@
+ body{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(17, 17, 17);
+    border-radius: 20px;
+ }
+ label{
+    /* padding: 30px; */
+}
+ 
+
+button{
+    margin-top: 20px;
+}
